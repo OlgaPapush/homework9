@@ -3,7 +3,7 @@ public class Main {
 
 
         // задание
-        Book firstBook = new Book ("Garri Potter", firstAuthorName, 2000);
+        Book firstBook = new Book ("Garri Potter", AuthorName, 2000);
         Book secondBook = new Book ( " Pippi longscking", secondAuthorName, 1993);
 
         Author firstAuthor = new Author ( " Joanne Rowling" );

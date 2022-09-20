@@ -22,11 +22,7 @@ public class Book {
         return Objects.hash (bookName,authorName,YearOfRelease);}
 
     @Override
-    public boolean equals(Object o) {
-        if (this == 0) return true;
-        if (0 == null || getClass() != o.getClass()) return false;
-        Book book - (bookName) o :
-        return YearOfRelease == book.YearOfRelease && Objects.equals(bookName, book.bookName) && Objects.equals( authorName, book.authorName);
+
         public String toString () {
             return "Book{" +
                     "bookName='" + bookName+

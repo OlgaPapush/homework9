@@ -23,4 +23,3 @@ public class Author {
         return " Наш автор здесь:" + this.authorName;
     }
 }
-}
