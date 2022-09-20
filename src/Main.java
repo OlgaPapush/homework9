@@ -14,7 +14,5 @@ public class Main {
 
         System.out.println(firstBook);
         System.out.println(secondBook);
-
-
     }
 }
